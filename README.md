@@ -2,8 +2,8 @@
 
 ### QUE VEREMOS?
 
-- explicación de que es un repositorio y para que sirve
 - instalación de git
+- explicación de que es un repositorio y para que sirve
 - para que sirve git y que es git?
 - comandos básicos de git, ejemplos?
 - como navegar entre ramas
